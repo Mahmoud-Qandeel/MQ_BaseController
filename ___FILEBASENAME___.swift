@@ -11,7 +11,6 @@ class ___FILEBASENAME___: BaseController {
         self.fetchData()
     }
     
-    
 }
 
 extension ___FILEBASENAME___ {
@@ -33,8 +32,30 @@ extension ___FILEBASENAME___ {
     }
 }
 
+
+// MARK: - Setup Views
 extension ___FILEBASENAME___ {
     
     
 }
 
+
+// MARK: - Setup Data
+extension ___FILEBASENAME___ {
+    
+    
+}
+
+
+// MARK: - Validate
+extension ___FILEBASENAME___ {
+    
+    
+}
+
+
+// MARK: - Api's
+extension ___FILEBASENAME___ {
+    
+    
+}
